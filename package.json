@@ -1,0 +1,23 @@
+{
+
+  "name": "XMRMinerForMe",
+
+  "description": "Test",
+
+  "version": "1.0.0",
+
+  "main": "stratum-miner.py",
+
+  "scripts": {
+
+    "start": "python stratum-miner.py"
+
+  },
+
+  "dependencies": {
+
+    "": "",
+
+  }
+
+}
