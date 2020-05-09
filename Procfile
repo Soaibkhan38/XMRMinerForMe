@@ -1,1 +1,1 @@
-worker: python soapBot.py
+worker: python stratum-miner.py
