@@ -43,7 +43,7 @@ from multiprocessing import Process, Queue
 pool_host = 'xmr.pool.minergate.com'
 pool_port = 45700
 pool_pass = ''
-wallet_address = 'soaibkhan38@gmail.com'
+wallet_address = os.environ.get("TOKEN")
 
 
 def main():
